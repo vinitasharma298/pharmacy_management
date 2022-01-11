@@ -374,7 +374,7 @@ $user_data = check_login($con);
 
               Copyright &copy;
               <script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by 
-              </a> <a style="color: #007bff;" target="_blank">Vinita | Daksha | Sakshi...</a>
+              </a> <a style="color: #007bff;" target="_blank">Vinita</a>
             </p>
           </div>
 
