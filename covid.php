@@ -235,7 +235,7 @@ The virus can spread from an infected person’s mouth or nose in small liquid p
 
               Copyright &copy;
               <script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by 
-              </a> <a style="color: #007bff;" target="_blank">Vinita | Daksha | Sakshi...</a>
+              </a> <a style="color: #007bff;" target="_blank">Vinita...</a>
             </p>
           </div>
 
