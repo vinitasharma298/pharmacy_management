@@ -136,18 +136,7 @@ $user_data = check_login($con);
 
         </div>
         <div class="row">
-          <div class="col-md-6 col-lg-4 mb-5">
-    
-            <div class="block-38 text-center">
-              <div class="block-38-img">
-                <div class="block-38-header">
-                  <img src="images/shetty1.jpeg" alt="Image placeholder" class="mb-4">
-                  <h3 class="block-38-heading h4">Daksha Shetty</h3>
-                  <p class="block-38-subheading">Team Member</p>
-                </div>
-              </div>
-            </div>
-          </div>
+         
           <div class="col-md-6 col-lg-4 mb-5">
             <div class="block-38 text-center">
               <div class="block-38-img">
@@ -159,17 +148,7 @@ $user_data = check_login($con);
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-5">
-            <div class="block-38 text-center">
-              <div class="block-38-img">
-                <div class="block-38-header">
-                  <img src="images/Sakshi_img.jpeg" alt="Image placeholder" class="mb-4">
-                  <h3 class="block-38-heading h4">Sakshi Shevade</h3>
-                  <p class="block-38-subheading">Team Member</p>
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>
